@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7c8ac60108941062f454cf7f10a4642336449d404ac34e13a2af2f318fc2b697/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966" alt="Coding">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma20007&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma20007" /> </p>
 
 - 🔭 I’m currently working on **Lead Management System**
@@ -21,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-8a625a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-sharma-8a625a237/" height="30" width="40" /></a>
 <a href="https://instagram.com/shubx.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubx.__" height="30" width="40" /></a>
 </p>
 
